@@ -1,0 +1,9 @@
+Appointment Module
+Version: 1.0
+Status: Development
+
+Features:
+
+Schedule appointment
+View appointments
+Cancel appointment
